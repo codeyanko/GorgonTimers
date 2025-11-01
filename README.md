@@ -1,7 +1,7 @@
  
   <a href="https://codeyanko.github.io/GorgonTimers" 
      style="font-size:55px; font-weight:bold; color:#ff4500; text-decoration:none;">
-    Latest Live Version Here
+    Click here for latest Live Version
   </a>
  
 
